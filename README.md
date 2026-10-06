@@ -6,6 +6,9 @@
 - Built with Qt 6 and C++20.
 
 
+<img width="1482" height="951" alt="github2" src="https://github.com/user-attachments/assets/d13a04de-dac3-484a-8e76-a4fb30663fcb" />
+
+
 
 ## Build
 
