@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="/">
+    <file>yusimanager.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/import.png</file>
+    <file>icons/export.png</file>
+    <file>icons/group.png</file>
+    <file>icons/edit.png</file>
+    <file>icons/duplicate.png</file>
+    <file>icons/copy.png</file>
+    <file>translations/de.json</file>
+    <file>translations/es.json</file>
+    <file>translations/fr.json</file>
+    <file>translations/it.json</file>
+    <file>translations/nl.json</file>
+    <file>translations/pl.json</file>
+    <file>translations/pt_BR.json</file>
+    <file>translations/widgets_es.json</file>
+    <file>translations/widgets_nl.json</file>
+    <file>translations/widgets_de.json</file>
+    <file>translations/widgets_fr.json</file>
+    <file>translations/widgets_pt_BR.json</file>
+    <file>translations/widgets_it.json</file>
+    <file>translations/widgets_pl.json</file>
+  </qresource>
+</RCC>
